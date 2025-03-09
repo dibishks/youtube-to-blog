@@ -27,6 +27,7 @@ youtube-transcript-blog
 2. **Install dependencies:**
    ```
    npm install
+   create .env file and place your 
    ```
 
 3. **Set up environment variables:**
